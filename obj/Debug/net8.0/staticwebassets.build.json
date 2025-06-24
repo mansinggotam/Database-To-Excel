@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Ckm4ltpMErlpSXkzSk4/+qS3C5GRrV5oZsji1gV8ESs=",
+  "Source": "DatabaseToExcel",
+  "BasePath": "_content/DatabaseToExcel",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
